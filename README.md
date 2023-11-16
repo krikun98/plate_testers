@@ -21,7 +21,7 @@ The top left corner is cut flat, and top right is rounded on all the testers. Th
 
 \* - also works for some [alps.tw Type OD1](https://deskthority.net/wiki/Alps.tw_Type_OD1) switches
 
-\*\* - The [specification](https://telcontar.net/KBK/Hi-Tek/docs/Hi-Tek%20Series%20725%20switch%20and%20keycap%20dimensions.pdf) states the switch cutouts are 15.162 mm. squares, but many NMB keyboards also have a small notch on top - some have theorized it's for the clicker mechanism, but I cannot really corroborate that. 
+\*\* - The [specification](https://telcontar.net/KBK/Hi-Tek/docs/Hi-Tek%20Series%20725%20switch%20and%20keycap%20dimensions.pdf) states the switch cutouts are 15.62 mm. squares, but many NMB keyboards also have a small notch on top - some have theorized it's for the clicker mechanism, but I cannot really corroborate that. 
 Even clicky switches work fine "in reverse" - with no notch on the clicker. 
 The Hi-Tek specifications do not mention plate thickness, but people have measured it to be 1.4 mm. 
 From personal experience 1.2 plates also work, but the switches can wobble a little. 
